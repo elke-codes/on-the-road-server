@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "On the Road - Capstone Project Brainstation Web Development",
   "main": "server.js",
-   "engines": {
+  "engines": {
     "node": "v16.x"
   },
   "scripts": {
