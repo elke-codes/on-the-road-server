@@ -688,44 +688,6 @@
     ]
   },
   {
-    "userName": "Daniel",
-    "firstName": "Daniel",
-    "lastName": "Chang",
-    "email": "daniel@email.com",
-    "password": "$2b$08$hwC31LMxNICN61rp5ICg4.YoiB8WzKn15ogcRLmTFNEKBl5zmY52O",
-    "id": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
-    "friends": [
-      {
-        "id": "71270f3d-7ca4-4039-96de-7279958c2d97",
-        "userName": "Phoebe"
-      },
-      {
-        "id": "d2ebf309-a0df-463d-b019-db4998741b7e",
-        "userName": "Elke"
-      }
-    ],
-    "messages": [
-      {
-        "room": "6d624377-0a79-4f8f-aa76-d6586d1bebdfd2ebf309-a0df-463d-b019-db4998741b7e",
-        "author": "Daniel",
-        "authorID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
-        "receivedBy": "Elke",
-        "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
-        "message": "hi elke",
-        "time": 1644123375379
-      }
-    ],
-    "locations": [
-      {
-        "lat": 35.6802403682393,
-        "lng": 139.7692456292992,
-        "created_at": "2022-01-20T02:34:37.006Z",
-        "city": "Tokyo",
-        "country": "Japan"
-      }
-    ]
-  },
-  {
     "userName": "Carol",
     "firstName": "Carol",
     "lastName": "DeWeger",
