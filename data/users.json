@@ -706,24 +706,6 @@
     ],
     "messages": [
       {
-        "room": "6d624377-0a79-4f8f-aa76-d6586d1bebdfd2ebf309-a0df-463d-b019-db4998741b7e",
-        "author": "Daniel",
-        "authorID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
-        "receivedBy": "Elke",
-        "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
-        "message": "hi elke",
-        "time": 1644123375379
-      },
-      {
-        "room": "109ebaf6-3db4-4671-8907-6280e232eca06d624377-0a79-4f8f-aa76-d6586d1bebdf",
-        "author": "scotty",
-        "authorID": "109ebaf6-3db4-4671-8907-6280e232eca0",
-        "receivedBy": "Daniel",
-        "receivedByID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
-        "message": "jokjlksfd",
-        "time": 1644207466575
-      },
-      {
         "room": "109ebaf6-3db4-4671-8907-6280e232eca06d624377-0a79-4f8f-aa76-d6586d1bebdf",
         "author": "Daniel",
         "authorID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
@@ -740,15 +722,6 @@
         "receivedByID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
         "message": "hi daniel",
         "time": 1644207505823
-      },
-      {
-        "room": "6d624377-0a79-4f8f-aa76-d6586d1bebdfd2ebf309-a0df-463d-b019-db4998741b7e",
-        "author": "Daniel",
-        "authorID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
-        "receivedBy": "Elke",
-        "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
-        "message": "helllllow",
-        "time": 1644223661461
       }
     ],
     "locations": [
@@ -1719,15 +1692,6 @@
         "time": 1643265711427
       },
       {
-        "room": "6d624377-0a79-4f8f-aa76-d6586d1bebdfd2ebf309-a0df-463d-b019-db4998741b7e",
-        "author": "Daniel",
-        "authorID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
-        "receivedBy": "Elke",
-        "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
-        "message": "hi elke",
-        "time": 1644123375379
-      },
-      {
         "room": "0fe3f293-fff0-4617-9225-08cd81bdee79d2ebf309-a0df-463d-b019-db4998741b7e",
         "author": "Saba",
         "authorID": "0fe3f293-fff0-4617-9225-08cd81bdee79",
@@ -1771,15 +1735,6 @@
         "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
         "message": "you",
         "time": 1644192777779
-      },
-      {
-        "room": "6d624377-0a79-4f8f-aa76-d6586d1bebdfd2ebf309-a0df-463d-b019-db4998741b7e",
-        "author": "Daniel",
-        "authorID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
-        "receivedBy": "Elke",
-        "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
-        "message": "helllllow",
-        "time": 1644223661461
       }
     ],
     "locations": [
