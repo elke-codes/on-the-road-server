@@ -722,6 +722,15 @@
         "receivedByID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
         "message": "hi daniel",
         "time": 1644207505823
+      },
+      {
+        "room": "6d624377-0a79-4f8f-aa76-d6586d1bebdfd2ebf309-a0df-463d-b019-db4998741b7e",
+        "author": "Daniel",
+        "authorID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
+        "receivedBy": "Elke",
+        "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
+        "message": "Hi Elke",
+        "time": 1644286424190
       }
     ],
     "locations": [
@@ -1735,6 +1744,15 @@
         "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
         "message": "you",
         "time": 1644192777779
+      },
+      {
+        "room": "6d624377-0a79-4f8f-aa76-d6586d1bebdfd2ebf309-a0df-463d-b019-db4998741b7e",
+        "author": "Daniel",
+        "authorID": "6d624377-0a79-4f8f-aa76-d6586d1bebdf",
+        "receivedBy": "Elke",
+        "receivedByID": "d2ebf309-a0df-463d-b019-db4998741b7e",
+        "message": "Hi Elke",
+        "time": 1644286424190
       }
     ],
     "locations": [
